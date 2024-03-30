@@ -8,7 +8,7 @@ import ThemeToggle from "../BgTheme/ThemeToggle";
 const Sports = () => {
   return (
     <div className="container mx-auto w-auto h-[673px]  ">
-      <div className="my-2">
+      <div className="">
         <div className="flex justify-between">
         <span className="text-xl font-bold border-b border-blue-500 mb-9 dark:text-white"> <span className="mb-9">sports</span>
         </span>
