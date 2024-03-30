@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
+I have completed this task with in three working days This was very best experience for me and i learned more things during this task completion.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Package: NextJs, ReactJs, Typscript, TailwindCss
+start : pnpm dev
 ```
+You can check out [the Next.js GitHub repository](https://github.com/supriya224?tab=repositories) - your feedback and contributions are welcome!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deploy on Netlify
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The easiest way to deploy your Next.js app is to use the [Netlify Platform](https://jolly-biscotti-76094b.netlify.app/) from the creators of Next.js.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://dark-mode-web-app.vercel.app/) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+##screenshot
+<img width="1440" alt="Screenshot 2024-03-30 at 4 45 31 PM" src="https://github.com/supriya224/dark-mode-web-app/assets/52038704/2a524357-608a-4a2a-8fcf-8d7d9182b039">
