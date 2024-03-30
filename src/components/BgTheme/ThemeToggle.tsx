@@ -20,7 +20,7 @@ const ThemeToggle = () => {
 
   return (
     <div
-      className=" relative w-16 h-8 flex items-center dark:bg-gray-900 bg-teal-200 cursor-pointer rounded-full p-2"
+      className=" relative w-16 h-8 flex items-center dark:bg-gray-900 bg-zinc-300 cursor-pointer rounded-full p-2"
       onClick={() => setDarkMode(!darkMode)}
     >
       <Moon className="text-white" size={18} />

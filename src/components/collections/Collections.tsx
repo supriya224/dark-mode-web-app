@@ -28,7 +28,7 @@ const Collections: React.FC = () => {
           />
         </span>
       </div>
-      <div className="flex mx-32">
+      <div className="container px-32  mx-auto gap-1 justify-center grid h-full sm:grid-cols-1  md:grid-cols-2 lg:grid-cols-3  xl:grid-cols-3">
         <SportComponent />
         <TicektComponent />
         <SportComponent />

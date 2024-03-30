@@ -7,7 +7,7 @@ import ThemeToggle from "../BgTheme/ThemeToggle";
 
 const Sports = () => {
   return (
-    <div className="container mx-auto w-auto h-[673px]  ">
+    <div className="container mx-auto w-auto h-auto py-9 ">
       <div className="">
         <div className="flex justify-between">
         <span className="text-xl font-bold border-b border-blue-500 mb-9 dark:text-white"> <span className="mb-9">sports</span>
@@ -15,7 +15,7 @@ const Sports = () => {
         <ThemeToggle/>
         </div>
      
-        <div className="flex h-full my-7 gap-5">
+        <div className="container mx-auto  justify-center grid  h-full my-7 gap-5 sm:grid-cols-2  md:grid-cols-3 lg:grid-cols-4   xl:grid-cols-5">
           {Data?.map((item, index) => {
             return (
               <div

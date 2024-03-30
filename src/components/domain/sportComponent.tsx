@@ -14,10 +14,6 @@ const SportComponent = () => {
                   <div className="flex items-center">
                     <Image src={Img} width={300} alt="" loading="lazy" />
                   </div>
-                  {/* <div className="border-b border-dashed border-b-2 my-5 pt-5">
-                    <div className="absolute rounded-full w-5 h-5 bg-white -mt-2 -left-2"></div>
-                    <div className="absolute rounded-full w-5 h-5 bg-white -mt-2 -right-2"></div>
-                  </div> */}
                   <div className="leading-7 dark:text-white"> 
                     <h3 className="text-center text-xl">
                     Las Vegas Aviators
